@@ -38,4 +38,12 @@
 }
 #text-success1{color: #dcdde1  !important;}
 
-/* cor e9eef5 
+/* cor e9eef5  */
+
+.whatsapp {
+    position: fixed;
+    top: 82%;
+    right: 1%;
+    padding: 10px;
+    z-index: 10000000;
+}
